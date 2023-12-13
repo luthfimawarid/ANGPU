@@ -8,7 +8,7 @@
         </tr>
         <tr>
             <td>RASA</td>
-            <td><input type="text" name="nama" required></td>
+            <td><input type="text" name="rasa" required></td>
         </tr>
         <tr>
             <td>HARGA</td>
@@ -16,11 +16,11 @@
         </tr>
         <tr>
             <td>JUMLAH</td>
-            <td><input type="text" name="detail" required></td>
+            <td><input type="text" name="jumlah" required></td>
         </tr>
         <tr>
             <td>WAKTU</td>
-            <td><input type="text" name="kategori" required></td>
+            <td><input type="text" name="waktu" required></td>
         </tr>
         <tr>
             <td></td>

@@ -10,6 +10,8 @@
             <th>HARGA</th>
             <th>JUMLAH</th>
             <th>WAKTU</th>
+            <th>EDIT</th>
+            <th>HAPUS</th>
       </tr>
 
       <?php $no = 1;

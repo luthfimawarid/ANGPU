@@ -9,7 +9,7 @@
         </tr>
         <tr>
             <td>RASA</td>
-            <td><input type="text" name="nama" value="<?php echo $data['row']['rasa']; ?>" required></td>
+            <td><input type="text" name="rasa" value="<?php echo $data['row']['rasa']; ?>" required></td>
         </tr>
         <tr>
             <td>HARGA</td>
@@ -17,11 +17,11 @@
         </tr>
         <tr>
             <td>JUMLAH</td>
-            <td><input type="text" name="detail" value="<?php echo $data['row']['jumlah']; ?>" required></td>
+            <td><input type="text" name="jumlah" value="<?php echo $data['row']['jumlah']; ?>" required></td>
         </tr>
         <tr>
             <td>WAKTU</td>
-            <td><input type="text" name="kategori" value="<?php echo $data['row']['waktu']; ?>" required></td>
+            <td><input type="text" name="waktu" value="<?php echo $data['row']['waktu']; ?>" required></td>
         </tr>
         <tr>
             <td></td>
